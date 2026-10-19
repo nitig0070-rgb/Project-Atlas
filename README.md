@@ -8,6 +8,7 @@ The workspace started empty. Architecture choices are in [ARCHITECTURE.md](ARCHI
 
 All corpus material other than the exact fictional seed values and trap text is synthetic. R-101 and R-102 differ by scope and must not be averaged. C-01's excerpt access to R-102 is a separate explicit evaluation grant; the purchase seed remains R-101 and R-103. C-02 is not granted R-101 or R-102 access.
 
+
 ## Architecture
 
 ```mermaid
